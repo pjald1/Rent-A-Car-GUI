@@ -1,0 +1,10 @@
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\bin\Debug\MRRC ConsoleApp.exe.config
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\bin\Debug\MRRC ConsoleApp.exe
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\bin\Debug\MRRC ConsoleApp.pdb
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\bin\Debug\MRRCManagement.dll
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\bin\Debug\MRRCManagement.pdb
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\obj\Debug\MRRC ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\obj\Debug\MRRC ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\obj\Debug\MRRC ConsoleApp.csproj.CopyComplete
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\obj\Debug\MRRC ConsoleApp.exe
+C:\Users\pjald\source\repos\MRRC\MRRC ConsoleApp\obj\Debug\MRRC ConsoleApp.pdb

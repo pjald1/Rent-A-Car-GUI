@@ -1,0 +1,6 @@
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\bin\Debug\MRRCManagement.dll
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\bin\Debug\MRRCManagement.pdb
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\obj\Debug\MRRCManagement.csproj.CoreCompileInputs.cache
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\obj\Debug\MRRCManagement.dll
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\obj\Debug\MRRCManagement.pdb
+C:\Users\pjald\source\repos\MRRC\MRRCManagement\obj\Debug\MRRCManagement.csprojResolveAssemblyReference.cache

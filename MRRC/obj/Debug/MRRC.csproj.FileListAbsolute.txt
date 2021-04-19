@@ -1,0 +1,13 @@
+C:\Users\pjald\source\repos\MRRC\MRRC\bin\Debug\MRRC.exe.config
+C:\Users\pjald\source\repos\MRRC\MRRC\bin\Debug\MRRC.exe
+C:\Users\pjald\source\repos\MRRC\MRRC\bin\Debug\MRRC.pdb
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.csprojResolveAssemblyReference.cache
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.Properties.Resources.resources
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.csproj.GenerateResource.cache
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.csproj.CoreCompileInputs.cache
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.exe
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.pdb
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.Form1.resources
+C:\Users\pjald\source\repos\MRRC\MRRC\bin\Debug\MRRCManagement.dll
+C:\Users\pjald\source\repos\MRRC\MRRC\bin\Debug\MRRCManagement.pdb
+C:\Users\pjald\source\repos\MRRC\MRRC\obj\Debug\MRRC.csproj.CopyComplete
